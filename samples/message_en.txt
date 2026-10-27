@@ -1,0 +1,2 @@
+Polybius described a signalling system around 150 BC: each letter became a pair of numbers.
+Gronsfeld later used a numeric key, so the shifts never exceed nine.
